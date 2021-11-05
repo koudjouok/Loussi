@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328006354028",
+    "project_id": "loussi-4e0d5",
+    "storage_bucket": "loussi-4e0d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328006354028:android:d461861efdd188ac0b8449",
+        "android_client_info": {
+          "package_name": "com.loussi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328006354028-pbpvtp6uu7c5t2q74bb5s7oaqntq0i3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnM-TlPiAkCvFKNhCen6Kbl12xjNxoxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328006354028-pbpvtp6uu7c5t2q74bb5s7oaqntq0i3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

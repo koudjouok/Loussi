@@ -1,0 +1,116 @@
+{
+    "slogan": "Easily find ...",
+     "back": "Back",
+     "logout": "Logout",
+
+    "home1":{
+        "message1": "is an image recognition program developed by CLINICAGRO, designed to find truly MADE IN CAMEROON products which remains a tedious task.",
+        "message2": "allows you to search for what you see, to go faster, to geolocate with precision the Made In Cameroon products displayed in the country's supermarkets.",
+        "message3": "We give you access to the following information:",
+        "message4": "the address of the supermarkets where you will find these products",
+        "message5": "the positioning of these products in supermarkets;",
+        "message6": "the mileage and the price to access these supermarkets in relation to your position.",
+        "message7": "Simply register with a WHATSAPP number to access all this information from an image or a word.",
+        "message8": "I am connecting",
+        "message9": "Connect",
+        "message10": "I subscribe",
+        "message11": "Subscribe"
+    },
+
+        "login":{
+            "success_connexion": "Connection completed",
+            "incorrect_password": "Incorrect password",
+            "error_connexion": "Connection problem",
+            "incorrect_phone": "Incorrect telephone",
+            "text_connexion": "Connect",
+            "phone_number": "Your phone number",
+            "password": "Your password",
+            "text_forgetpassword": "Forgotten password",
+            "login": "Connect"
+        },
+        "register":{
+            "whatsapp_not_installed": "Make sure you have installed whatsapp",
+            "phone_bad": "please enter a whatsapp number with country code (237). for example: 237696960054",
+            "failure_register": "Registration failed",
+            "message1": "Welcome to * LOUSSI *, your account has been perfectly created !!!",
+            "message2": "* LOUSSI * is an image recognition program developed by CLINICAGRO, designed to find truly * MADE IN CAMEROON * products",
+            "message3": "which remains a tedious task.",
+            "message4": "LOUSSI allows you to search for what you see, to go faster, to geolocate with precision the Made In Cameroon products displayed in the country's supermarkets.",
+            "id": "* Your username: *",
+            "password": "* And Your password is: *",
+            "phone_exist": "This phone number is already in our database",
+            "error_connexion": "Connection error",
+            "field_empty": "Check the entries",
+            "register": "Create your account",
+            "placeholder_phone": "Enter your whatsapp number",
+            "infos": "Your access will be sent to you by whatsapp.",
+            "empty_phone": "Please enter your phone number",
+            "valid_registration": "I validate my registration"
+        },
+        "forgetpass":{
+            "message1": "Welcome to * LOUSSI *, your password has been updated !!!",
+             "message2": "* Your username: *",
+             "message3": "* And your new password is: *",
+             "problem_register": "Registration problem",
+             "phone_not_exist": "Non-existent phone number",
+             "error_connexion": "Connection error",
+             "text1": "Update password",
+             "placeholder_tel": "Your phone number",
+             "empty_field": "Please enter your phone number",
+             "btn_update": "Update"
+        },
+        "recherche_text":{
+            "enable_gps": "Activate your location service to allow Loussi to determine your location in order to provide you with the coordinates of the nearest supermarket.",
+             "product_not_found": "No product found ...",
+             "search_product": "Search for a product",
+             "field_empty": "Enter your search before validating!",
+             "structure": "Structure",
+             "category": "Category",
+             "place_of_product": "Where can I find this product?",
+             "list_of_product": "Products found",
+             "awesome_title": "Product search ...",
+             "awesome_message": "please wait !!!",
+             "avis":"your opinion",
+             "not_opinion":"No reviews available",
+             "opinion_valid": "Your opinion has been taken into account",
+             "quality_of_product": "Product quality",
+             "title_avis": "Your opinions are important",
+             "infos_avis": "Tell the entrepreneur what you think of his product. Would you recommend it and why?",
+             "indicate_note": "Please indicate a note",
+             "note1": "I hated",
+             "note2": "I didn't like",
+             "note3": "Acceptable",
+             "note4": "I liked it",
+             "note5": "I loved it",
+             "field_avis": "Please give your opinion before validating"
+          },
+          "boutiques":{
+            "whatsapp":{
+                "message1": "Product: *",
+                "message2": "Shop: *",
+                "message3": "Store address: *",
+                "message4": "Product price: *",
+                "message5": "Distance to cover: *",
+                "message6": "Taxi price: *",
+                "message7": "Location of the product in the supermarket: *",
+                "message8": "Thank you for trusting * Loussi *"
+            },
+            "product_not_register": "This product is not referenced in any supermarket for the moment.",
+            "product_not_found": "Product not found",
+            "list_of_shop": "List of shops",
+            "product_name": "PRODUCT",
+            "shop_unavailable": "No shop available.",
+            "shop": "Shop",
+            "address_shop": "Address of the shop",
+            "price_product": "Product price",
+            "meter": "Distance to travel",
+            "price_transport": "Taxi price",
+            "buy_product": "I buy from this store"
+          }
+    
+   
+    
+
+
+
+}

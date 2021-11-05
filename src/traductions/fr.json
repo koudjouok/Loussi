@@ -1,0 +1,118 @@
+{
+    "slogan":"Trouvez facilement...",
+    "back":"Retour",
+    "logout":"Deconnexion",
+    "btn_send":"Send",
+    "cancel":"Cancel",
+
+    "home1":{
+        "message1":"est un programme de reconnaissance d'images developpé par CLINICAGRO, conçu pour trouver des produits véritablement MADE IN CAMEROON qui reste une tâche fastidueuse.",
+        "message2":"vous permet de rechercher ce que vous voyez, d'aller plus vite, de géolocaliser avec précision les produits Made In Cameroon exposés dans les supermachés du pays.",
+        "message3":"Nous vous donnons accès aux informations suivantes :",
+        "message4":"l'adresse des supermarchés où vous trouverez ces produits",
+        "message5":"le positionnement de ces produits dans les supermarchés;",
+        "message6":"le kilométrage et le prix pour accéder à ces supermarchés par rapport à votre position.",
+        "message7":"Inscrivez-vous simplement avec un numéro WHATSAPP pour accéder à toutes ces informations à partir d'une image ou d'un mot.",
+        "message8":"Je me connecte",
+        "message9":"Connectez- vous",
+        "message10":"Je m'inscris",
+        "message11":"Inscrivez-vous"
+    },
+
+        "login":{
+            "success_connexion":"Connexion effectuée",
+            "incorrect_password":"Mot de passe incorrect",
+            "error_connexion":"Problème de connexion",
+            "incorrect_phone":"Téléphone incorrect",
+            "text_connexion":"Connectez-vous",
+            "phone_number":"Votre numéro de téléphone",
+            "password":"Votre mot de passe",
+            "text_forgetpassword":"Mot de passe oublié",
+            "login":"Se connecter"
+        },
+        "register":{
+            "whatsapp_not_installed":"Rassurez vous que vous avez installé whatsapp",
+            "phone_bad":"svp, veuillez entrer un numéro whatsapp avec le code du pays(237). par exemple :237696960054",
+            "failure_register":"Echec d'enregistrement",
+            "message1":"Bienvenue chez *LOUSSI*, votre compte a été parfaitement créé !!!",
+            "message2":" *LOUSSI* est un programme de reconnaissance d'images developpé par CLINICAGRO, conçu pour trouver des produits véritablement *MADE IN CAMEROON* ",
+            "message3":"qui reste une tâche fastidueuse.",
+            "message4":"LOUSSI vous permet de rechercher ce que vous voyez, d'aller plus vite, de géolocaliser avec précision les produits Made In Cameroon exposés dans les supermachés du pays.",
+            "id":" *Votre identifiant :* ",
+            "password":" *Et Votre mot de passe est :* ",
+            "phone_exist":"Ce numéro de téléphone est déjà dans notre base de données",
+            "error_connexion":"Erreur connexion",
+            "field_empty":"Vérifiez les entrées",
+            "register":"Créer votre compte",
+            "placeholder_phone":"Entrez votre numéro whatsapp",
+            "infos":"Vos accès vous seront envoyés par whatsapp.",
+            "empty_phone":"Veuillez entrez votre numéro de téléphone",
+            "valid_registration":"Je valide mon inscription"
+        },
+        "forgetpass":{
+            "message1":"Bienvenue chez *LOUSSI*, votre mot de passe a été mise à jour !!!",
+            "message2":" *Votre identifiant :* ",
+            "message3":" *Et votre nouveau de passe est :* ",
+            "problem_register":"Problème d'enregistrement",
+            "phone_not_exist":"Numéro de téléphone inéxistant",
+            "error_connexion":"Erreur connexion",
+            "text1":"Mise à jour mot de passe",
+            "placeholder_tel":"Votre numéro de téléphone",
+            "empty_field":"Veuillez entrez votre numéro de téléphone",
+            "btn_update":"Mise à jour"
+        },
+        "recherche_text":{
+            "enable_gps":"Activez votre service de localisation pour autoriser Loussi à déterminer votre position afin de vous fournir les coordonnées du supermarché le plus proche.",
+            "product_not_found":"Aucun produit trouvé...",
+            "search_product":"Recherchez un produit",
+            "field_empty":"Entrez votre recherche avant de valider !",
+            "structure":"Structure",
+            "category":"Categorie",
+            "place_of_product":"Où trouvez ce produit ?",
+            "list_of_product":"Produits trouvés",
+            "awesome_title":"Recherche produit...",
+            "awesome_message":"veuillez patienter SVP !!!",
+            "avis":"Votre avis",
+            "not_opinion":"Pas d'Avis disponible",
+            "opinion_valid":"Votre avis a été pris en compte",
+            "quality_of_product":"Qualité du produit",
+            "title_avis":"Vos avis sont importants",
+            "infos_avis":" Dites à l'entrepreneur ce que vous pensez de son produit. La recommanderiez-vous et pourquoi?",
+            "indicate_note":"Veuillez indiquer une note",
+            "note1":"J'ai détesté",
+            "note2":"je n'ai pas aimé",
+            "note3":"Acceptable",
+            "note4":"J'ai bien aimé",
+            "note5":"J'ai adoré",
+            "field_avis":"Veuillez donnez votre avis avant de valider"
+          },
+          "boutiques":{
+            "whatsapp":{
+                "message1":"Produit : *",
+                "message2":"Boutique : *",
+                "message3":"Adresse de la boutique : *",
+                "message4":"Prix du produit : *",
+                "message5":"Distance à parcourir : *",
+                "message6":"Prix du Taxi : *",
+                "message7":"Localisation du produit dans le supermarché : *",
+                "message8":"   Merci d'avoir fait confiance à *Loussi* "
+            },
+            "product_not_register":"Ce produit n'est referencé dans aucun supermarché pour l'instant.",
+            "product_not_found":"Produit non trouvé",
+            "list_of_shop":"Liste des boutiques",
+            "product_name":"PRODUIT",
+            "shop_unavailable":"Aucune boutique disponible.",
+            "shop":"Boutique",
+            "address_shop":"Adresse de la boutique",
+            "price_product":"Prix du produit",
+            "meter":"Distance à parcourir",
+            "price_transport":"Prix du Taxi",
+            "buy_product":"J'achète dans cette boutique"
+          }
+    
+   
+    
+
+
+
+}

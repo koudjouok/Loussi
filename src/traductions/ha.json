@@ -1,0 +1,103 @@
+{
+    "slogan": "Sauƙaƙe samu ...",
+     "back": "Baya",
+     "logout": "Logout",
+
+    "home1":{
+        "message1": "shiri ne na gane hoto wanda kamfanin CLINICAGRO ya kirkira, wanda aka tsara shi domin nemo ainihin AIKATA CIKIN KAMARON KAMARON wanda har yanzu yake zama mai wahala.",
+        "message2": "yana baka damar bincika abin da ka gani, don tafiya cikin sauri, don sanya ƙasa daidai da kayayyakin Made In Kamaru da aka nuna a manyan kantunan ƙasar.",
+        "message3": "Mun baku dama ga wadannan bayanan:",
+        "message4": "Adireshin manyan kantunan da zaku samu wadannan kayan",
+        "message5": "matsayin wadannan kayayyakin a cikin manyan kantunan;",
+        "message6": "nisan kilomita da farashin samun dama ga waɗannan manyan kantunan dangane da matsayinku.",
+        "message7": "Kawai yi rijista da lambar WHATSAPP don samun damar duk waɗannan bayanan daga hoto ko kalma.",
+        "message8": "Ina haɗawa",
+        "message9": "Haɗa",
+        "message10": "Na yi rajista",
+        "message11": "Biyan kuɗi"
+    },
+
+        "login":{
+            "success_connexion": "An gama haɗin",
+            "incorrect_password ":" Kalmar wucewa mara kyau ",
+            "error_connexion": "Matsalar haɗi",
+            "incorrect_phone": "Waya mara kyau",
+            "text_connexion": "Haɗa",
+            "phone_number": "Lambar wayarku",
+            "password": "Kalmar sirrin ku",
+            "text_forgetpassword": "Manta kalmar sirri",
+            "login": "Haɗa"
+        },
+        "register":{
+            "whatsapp_not_installed": "Tabbatar kun girka whatsapp",
+            "phone_bad": "da fatan za a shigar da lambar whatsapp tare da lambar ƙasa (237). Misali: 237696960054",
+            "failure_register": "Rajista ta gaza",
+            "message1": "Maraba da zuwa * LOUSSI *, asusunka ya kasance cikakke !!!",
+            "message2": "* LOUSSI * shiri ne na gane hoto wanda kamfanin CLINICAGRO ya kirkira, wanda aka tsara shi dan gano ainihin * AIKI A CAMEROON *",
+            "message3": "wanda ya kasance aiki mai wahala.",
+            "message4": "LOUSSI tana ba ku damar bincika abin da kuka gani, don tafiya cikin sauri, don sanya ƙasa daidai da kayayyakin Made In Kamaru da aka nuna a cikin manyan kantunan ƙasar.",
+            "id": "* Sunan mai amfani naka: *",
+            "password": "* Kuma kalmar sirrinku ita ce: *",
+            "phone_exist": "Wannan lambar wayar ta riga tana cikin bayananmu",
+            "error_connexion": "Kuskuren haɗi",
+            "field_empty": "Duba shigarwar",
+            "register": "Createirƙiri asusunka",
+            "placeholder_phone": "Shigar da lambarku ta whatsapp",
+            "infos": "Za a aiko muku da damar ku ta whatsapp.",
+            "empty_phone": "Da fatan za a shigar da lambar wayarku",
+            "valid_registration": "Na inganta rajista na"
+        },
+        "forgetpass":{
+            "message1": "Maraba da zuwa * LOUSSI *, an sabunta kalmar sirrinku !!!",
+             "message2": "* Sunan mai amfani naka: *",
+             "message3": "* Kuma sabuwar kalmar sirrinku ita ce: *",
+             "problem_register": "Matsalar rajista",
+             "phone_not_exist": "Babu lambar waya",
+             "error_connexion": "Kuskuren haɗi",
+             "text1": "Sabunta kalmar wucewa",
+             "placeholder_tel": "Lambar wayarku",
+             "empty_field": "Da fatan za a shigar da lambar wayarku",
+             "btn_update": "Sabuntawa"
+        },
+        "recherche_text":{
+            "enable_gps": "Kunna sabis ɗin wurinku don bawa Loussi damar ƙayyade wurinku domin samar muku da haɗin kantunan mafi kusa.",
+            "product_not_found": "Ba a samo samfur ba ...",
+            "search_product": "Bincika samfur",
+            "field_empty": "Shigar da bincike kafin tabbatarwa!",
+            "structure": "Tsarin",
+            "category": "Nau'in",
+            "place_of_product": "A ina zan iya samun wannan samfurin?",
+            "list_of_product": "An samo samfura",
+            "awesome_title": "Binciken samfura ...",
+            "awesome_message": "don Allah jira !!!"
+          },
+          "boutiques":{
+            "whatsapp":{
+                "message1": "Samfura: *",
+                "message2": "Shago: *",
+                "message3": "Adireshin adana: *",
+                "message4": "Farashin samfur: *",
+                "message5": "Nisa zuwa rufe: *",
+                "message6": "Farashin tasi: *",
+                "message7": "Wurin samfurin a cikin babban kanti: *",
+                "message8": "Na gode da dogara * Loussi *"
+            },
+            "product_not_register": "Ba a ambaci wannan samfurin a cikin kowane babban kanti na yanzu.",
+            "product_not_found": "Ba a samo samfur ba",
+            "list_of_shop": "Jerin shaguna",
+            "sunan sunan": "PRODUCT",
+            "shop_unavailable": "Babu shago.",
+            "shop": "Shago",
+            "address_shop": "Adireshin shago",
+            "price_product": "Farashin samfur",
+            "meter": "Nisan tafiya",
+            "price_transport": "farashin taksi",
+            "buy_product": "Na saya daga wannan shagon"
+          }
+    
+   
+    
+
+
+
+}
